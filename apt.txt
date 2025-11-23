@@ -1,4 +1,10 @@
-# apt.txt
-libgl1-mesa-glx
+# apt.txt - Comprehensive list for OpenCV/MediaPipe
+build-essential
+cmake
+git
+wget
+ffmpeg
 libsm6
+libxext6
 libxrender1
+libgl1-mesa-glx
